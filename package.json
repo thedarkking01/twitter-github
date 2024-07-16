@@ -14,5 +14,6 @@
     "express": "^4.19.2",
     "node-fetch": "^3.3.2",
     "twitter-api-v2": "^1.17.2"
-  }
+  },
+  "type": "module"
 }
